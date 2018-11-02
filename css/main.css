@@ -20,7 +20,7 @@
  *  13. testimonials
  *  14. download
  *  15. footer styles
- *
+ *  16. kashtels codes
  * =================================================================== */
 
 
@@ -2857,5 +2857,19 @@ footer ul a:visited {
   }
 }
 
+/* ===================================================================
+ *  16. Kashtels Codes - (_document-setup)
+ *
+ * ------------------------------------------------------------------- */
+
+ .bt {
+  border-radius: 10px;
+  border-style: solid;
+  border: #2a9038;
+  width: auto;
+  height: auto;
+  margin: auto;
+  border-width: 2px 10px 4px 20px;
+}
 
 /*# sourceMappingURL=main.css.map */
